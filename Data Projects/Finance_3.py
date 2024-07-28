@@ -52,7 +52,7 @@ def fetch_policy(company):
 
 def run():
     # Your NewsAPI key
-    api_key =  'c03aeffd4ded4972a3a17919c4858674' # Replace with your actual API key
+    api_key =  'bbb' # Replace with your actual API key
     print('Fetching companies')
     # Fetch the S&P 500 companies
     sp500_df = fetch_sp500_companies()
