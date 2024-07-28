@@ -1,0 +1,3 @@
+Classic Titanic DB analysis model. 
+utilising different feature in the Random Forest Model and Later attempting to stack with the linear regression model. 
+Overall accuracy of 89.45%
